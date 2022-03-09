@@ -1,4 +1,4 @@
-const {Client, Intents, Message, MessageEmbed,Permissions } = require('discord.js');
+const {Client, Intents} = require('discord.js');
 const config = require('./config.json')
 
 const client = new Client({ 
